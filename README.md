@@ -18,9 +18,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/syed-anas-ahmed-0211aa249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed anas ahmed" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/27177597" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27177597" height="30" width="40" /></a>
-<a href="https://www.behance.net/syedanasahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syed anas ahmed" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/syed anas ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syed anas ahmed" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/syed anas ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed anas ahmed" height="30" width="40" /></a>
+<a href="https://www.behance.net/syedanas ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="syed anas ahmed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/syedanasahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="syed anas ahmed" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/syedanasahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed anas ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
